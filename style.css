@@ -211,10 +211,10 @@ ul li a:hover{
     bottom: 0;
     background-position:center;
     background-size:cover;
-    border: 2px solid rgb(238, 192, 65);
+    border: 2px solid rgb(0, 0, 0);
     Border-top-left-radius: 140px;
     Border-bottom-right-radius: 140px;
-    box-shadow: 0 10px 50px rgba(0, 0, 0, 0.15);
+   
     
     
     transition: left 3s ease;
