@@ -61,6 +61,7 @@ body{
     transition: color 0.3s;
 }
 
+
 .nav-links a:hover {
     color: #ff6347; /* Change to your preferred color */
 }
@@ -178,7 +179,7 @@ ul li a:hover{
     transition: 1s all;
 }
 .hope img{
-  margin-left:600px;
+  margin-left:560px;
   margin-bottom:30px;
 }
 
